@@ -2,6 +2,8 @@
 
 Technical Assessment for a User List created with Vue3 and Pinia
 
+![User-List](/src/assets/snapshot.png)
+
 ## Project Setup
 
 ```sh
